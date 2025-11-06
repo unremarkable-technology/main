@@ -1,8 +1,9 @@
-# main
+# Introduction
 Unremarkable Technology: how to create technology that delivers for your business, developers and users
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-
+# License
+© Figment Engine Ltd. Licensed under CC BY 4.0. [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+Commercial editions published by Figment Engine Ltd.
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
