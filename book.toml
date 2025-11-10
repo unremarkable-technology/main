@@ -2,4 +2,7 @@
 authors = ["Fitz (Philip Fitzsimons)"]
 language = "en"
 src = "src"
-title = "Unremarkable Technology"
+title = "Well-Architected II"
+
+[build]
+build-dir = "public"
