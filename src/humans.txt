@@ -1,0 +1,10 @@
+/* TEAM */
+	Chef: Fitz
+	Contact: info [at] figmentengine.com
+	From: London, UK
+
+/* SITE */
+	Last update: 2025/11/1
+	Language: English
+	Doctype: HTML5
+	Stack: mdbook, Cloudflare
